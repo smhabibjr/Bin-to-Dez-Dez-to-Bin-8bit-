@@ -1,0 +1,30 @@
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).exe.config
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).exe
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).pdb
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csprojAssemblyReference.cache
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary_to_Decimal__8bit_.Form1.resources
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary_to_Decimal__8bit_.Properties.Resources.resources
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csproj.GenerateResource.cache
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csproj.CoreCompileInputs.cache
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).exe
+C:\Users\Habib\source\repos\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).pdb
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).exe.config
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).exe
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).pdb
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csprojAssemblyReference.cache
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary_to_Decimal__8bit_.Form1.resources
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary_to_Decimal__8bit_.Properties.Resources.resources
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csproj.GenerateResource.cache
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csproj.CoreCompileInputs.cache
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).exe
+C:\Users\Habib\source\repos\New Try\Binary to Decimal (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).pdb
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).exe.config
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).exe
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\bin\Debug\Binary to Decimal (8bit).pdb
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csprojAssemblyReference.cache
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary_to_Decimal__8bit_.Form1.resources
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary_to_Decimal__8bit_.Properties.Resources.resources
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csproj.GenerateResource.cache
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).csproj.CoreCompileInputs.cache
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).exe
+C:\Users\Habib\Downloads\Berufschule\LF5\Aufgabe + AB\Projeckt\Bin to Dez , Dez to Bin (8bit)\Bin to Dez , Dez to Bin (8bit)\Binary to Decimal (8bit)\obj\Debug\Binary to Decimal (8bit).pdb
